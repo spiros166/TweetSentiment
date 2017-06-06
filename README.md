@@ -3,14 +3,10 @@ A text classifier to tackle sentiment classification in Twitter for task 10 of S
 http://alt.qcri.org/semeval2015/task10/
 
 It perfroms sentiment analysis for two different tasks:
-
-  Task A: Contextual Polarity Disambiguation: Given a message containing a marked instance of a word or phrase, determine whether 
-  that instance is positive, negative or neutral in that context.
+  Task A: Contextual Polarity Disambiguation: Given a message containing a marked instance of a word or phrase, determine   whether that instance is positive, negative or neutral in that context.
+  Subtask B: Message Polarity Classification: Given a message, classify whether the message is of positive, negative, or neutral sentiment. For messages conveying both a positive and negative sentiment, whichever is the stronger sentiment should be chosen.
   
-  Subtask B: Message Polarity Classification: Given a message, classify whether the message is of positive, negative, or neutral 
-  sentiment. For messages conveying both a positive and negative sentiment, whichever is the stronger sentiment should be chosen.
-  
-  * Run classifiers for your own data simply by changing the data folder content.
+  *** Run classifiers for your own data simply by changing the data folder content.
   
   
 Guidelines to run the code
