@@ -1,6 +1,7 @@
 # TweetSentiment
 A text classifier to tackle sentiment classification in Twitter for task 10 of Semeval 2015 using Python and the Sklearn library. 
 http://alt.qcri.org/semeval2015/task10/
+
 It perfroms sentiment analysis for two different tasks:
 
   Task A: Contextual Polarity Disambiguation: Given a message containing a marked instance of a word or phrase, determine whether 
